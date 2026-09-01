@@ -1,0 +1,5 @@
+config,method,p0,recall_mean,recall_std,dist_mean,dist_std
+two,fixed,70,1.000,0.000,18418.0,189.0
+two,adaptive,25,1.000,0.000,16363.0,388.0
+three,fixed,70,1.000,0.000,18836.0,246.0
+three,adaptive,25,0.999,0.000,16773.0,368.0
